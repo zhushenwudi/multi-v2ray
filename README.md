@@ -60,7 +60,7 @@ V2ray多用户管理脚本，向导式管理[新增|删除|修改]传输协议�
 ## 安装命令
 
 ```bash
-source <(curl -sL https://git.io/fNgqx)
+source <(curl -sL https://git.io/fNgqx) --zh
 ```
 
 ## 升级命令(保留配置文件，升级失败请全新安装)
